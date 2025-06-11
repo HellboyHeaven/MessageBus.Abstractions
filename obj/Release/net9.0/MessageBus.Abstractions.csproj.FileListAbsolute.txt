@@ -1,0 +1,5 @@
+/mnt/data/Projects/Backend/MessageBus/MessageBus.Abstractions/obj/Release/net9.0/MessageBus.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/data/Projects/Backend/MessageBus/MessageBus.Abstractions/obj/Release/net9.0/MessageBus.Abstractions.AssemblyInfoInputs.cache
+/mnt/data/Projects/Backend/MessageBus/MessageBus.Abstractions/obj/Release/net9.0/MessageBus.Abstractions.AssemblyInfo.cs
+/mnt/data/Projects/Backend/MessageBus/MessageBus.Abstractions/obj/Release/net9.0/MessageBus.Abstractions.csproj.CoreCompileInputs.cache
+/mnt/data/Projects/Backend/MessageBus/MessageBus.Abstractions/obj/Release/net9.0/MessageBus.Abstractions.sourcelink.json

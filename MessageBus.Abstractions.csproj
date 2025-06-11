@@ -1,9 +1,13 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net9.0</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
+    <Version>1.0.0</Version>
+    <Authors>Yersultan Kylyshev</Authors>
+    <PackageId>MessageBus.Abstractions</PackageId>
+    <Description>MessageBus Abstractions for any message broker ASP.NET</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/HellboyHeaven/MessageBus.Abstractions</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
