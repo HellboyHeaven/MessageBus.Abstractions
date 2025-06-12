@@ -3,3 +3,10 @@
 /mnt/data/Projects/Backend/MessageBus/MessageBus.Abstractions/obj/Release/net9.0/MessageBus.Abstractions.AssemblyInfo.cs
 /mnt/data/Projects/Backend/MessageBus/MessageBus.Abstractions/obj/Release/net9.0/MessageBus.Abstractions.csproj.CoreCompileInputs.cache
 /mnt/data/Projects/Backend/MessageBus/MessageBus.Abstractions/obj/Release/net9.0/MessageBus.Abstractions.sourcelink.json
+/mnt/data/Projects/Backend/MessageBus/MessageBus.Abstractions/bin/Release/net9.0/MessageBus.Abstractions.deps.json
+/mnt/data/Projects/Backend/MessageBus/MessageBus.Abstractions/bin/Release/net9.0/MessageBus.Abstractions.dll
+/mnt/data/Projects/Backend/MessageBus/MessageBus.Abstractions/bin/Release/net9.0/MessageBus.Abstractions.pdb
+/mnt/data/Projects/Backend/MessageBus/MessageBus.Abstractions/obj/Release/net9.0/MessageBus.Abstractions.dll
+/mnt/data/Projects/Backend/MessageBus/MessageBus.Abstractions/obj/Release/net9.0/refint/MessageBus.Abstractions.dll
+/mnt/data/Projects/Backend/MessageBus/MessageBus.Abstractions/obj/Release/net9.0/MessageBus.Abstractions.pdb
+/mnt/data/Projects/Backend/MessageBus/MessageBus.Abstractions/obj/Release/net9.0/ref/MessageBus.Abstractions.dll

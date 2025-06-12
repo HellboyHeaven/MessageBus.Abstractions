@@ -11,10 +11,10 @@
     "/home/hellboy/.nuget/packages/": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.0.2",
     "restore": {
       "projectUniqueName": "/mnt/data/Projects/Backend/MessageBus/MessageBus.Abstractions/MessageBus.Abstractions.csproj",
-      "projectName": "MessageBus.Abstractions",
+      "projectName": "MessageBroker.MessageBus.Abstractions",
       "projectPath": "/mnt/data/Projects/Backend/MessageBus/MessageBus.Abstractions/MessageBus.Abstractions.csproj",
       "packagesPath": "/home/hellboy/.nuget/packages/",
       "outputPath": "/mnt/data/Projects/Backend/MessageBus/MessageBus.Abstractions/obj/",

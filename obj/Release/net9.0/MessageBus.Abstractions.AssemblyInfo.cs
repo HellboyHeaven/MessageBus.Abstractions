@@ -13,11 +13,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Yersultan Kylyshev")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("MessageBus Abstractions for any message broker ASP.NET")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b452c5b0859b54abd32f882215ccd356a55b8f74")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.2.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.2+7a237cb31261e2200c75e9ee02fccdaa0ec2fb8b")]
 [assembly: System.Reflection.AssemblyProductAttribute("MessageBus.Abstractions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MessageBus.Abstractions")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyVersionAttribute("1.0.2.0")]
 [assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "https://github.com/HellboyHeaven/MessageBus.Abstractions")]
 
 // Создано классом WriteCodeFragment MSBuild.
